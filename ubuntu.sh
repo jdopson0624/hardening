@@ -97,12 +97,12 @@ function main {
   f_limitsconf
   f_adduser
   f_rootaccess
-  # f_package_remove
-  # f_package_install
-  # f_coredump
-  # f_usbguard
-  # f_postfix
-  # f_apport
+  f_package_remove
+  f_package_install
+  f_coredump
+  f_usbguard
+  f_postfix
+  f_apport
   # f_motdnews
   # f_rkhunter
   #f_sshdconfig
