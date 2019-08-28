@@ -90,13 +90,13 @@ function main {
   f_prelink
   f_aptget_configure
   f_aptget
-  # f_hosts
-  # f_issue
-  # f_logindefs
-  # f_sysctl
-  # f_limitsconf
-  # f_adduser
-  # f_rootaccess
+  f_hosts
+  f_issue
+  f_logindefs
+  f_sysctl
+  f_limitsconf
+  f_adduser
+  f_rootaccess
   # f_package_remove
   # f_package_install
   # f_coredump
