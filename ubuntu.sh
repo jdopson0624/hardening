@@ -103,11 +103,11 @@ function main {
   f_usbguard
   f_postfix
   f_apport
-  # f_motdnews
-  # f_rkhunter
+  f_motdnews
+  f_rkhunter
   #f_sshdconfig
-  # f_password
-  # f_cron
+  f_password
+  f_cron
   # f_ctrlaltdel
   # f_auditd
   # f_aide
