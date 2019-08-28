@@ -108,14 +108,14 @@ function main {
   #f_sshdconfig
   f_password
   f_cron
-  f_ctrlaltdel
-  f_auditd
-  f_aide
-  f_rhosts
-  # f_users
-  # f_lockroot
-  # f_aptget_clean
-  # f_suid
+  # f_ctrlaltdel
+  # f_auditd
+  # f_aide
+  # f_rhosts
+  f_users
+  f_lockroot
+  f_aptget_clean
+  f_suid
   # f_restrictcompilers
   # f_umask
   # f_path
