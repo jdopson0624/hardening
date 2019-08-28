@@ -90,7 +90,7 @@ function main {
   f_prelink
   f_aptget_configure
   f_aptget
-  f_hosts
+  # f_hosts
   f_issue
   f_logindefs
   f_sysctl
