@@ -116,13 +116,13 @@ function main {
   f_lockroot
   f_aptget_clean
   f_suid
-  # f_restrictcompilers
-  # f_umask
-  # f_path
-  # f_aa_enforce
-  # f_aide_post
-  # f_aide_timer
-  # f_aptget_noexec
+  f_restrictcompilers
+  f_umask
+  f_path
+  f_aa_enforce
+  f_aide_post
+  f_aide_timer
+  f_aptget_noexec
   f_systemddelta
   f_checkreboot
 
