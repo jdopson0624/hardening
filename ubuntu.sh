@@ -105,7 +105,7 @@ function main {
   f_apport
   f_motdnews
   f_rkhunter
-  #f_sshdconfig
+  f_sshdconfig
   f_password
   f_cron
   f_ctrlaltdel
