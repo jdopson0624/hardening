@@ -108,8 +108,8 @@ function main {
   #f_sshdconfig
   f_password
   f_cron
-  # f_ctrlaltdel
-  # f_auditd
+  f_ctrlaltdel
+  f_auditd
   # f_aide
   f_rhosts
   f_users
